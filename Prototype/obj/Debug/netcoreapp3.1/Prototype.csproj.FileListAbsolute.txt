@@ -1,0 +1,13 @@
+D:\C#\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+D:\C#\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+D:\C#\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+D:\C#\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+D:\C#\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+D:\C#\Prototype\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+D:\C#\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+D:\C#\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+D:\C#\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+D:\C#\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+D:\C#\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+D:\C#\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+D:\C#\Prototype\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
